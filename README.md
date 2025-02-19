@@ -4,7 +4,7 @@ A Maya python based auto secondary tool for animators.
 ## Requirements:
 This tool requires the following PIP installs: Qt.py, six, numpy and scipy.  
 On top of the following python packages: [dcc](https://github.com/bhsingleton/dcc) and [mpy](https://github.com/bhsingleton/mpy).  
-The following plug-ins, are optional, but highly recommended: [pointHelper](https://github.com/bhsingleton/PointHelper), [pointOnCurveConstraint](https://github.com/bhsingleton/PointOnCurveConstraint) and [transformConstraint](https://github.com/bhsingleton/TransformConstraint).  
+The following plug-in, [boneDynamicsNode](https://github.com/akasaki1211/boneDynamicsNode), is required as well.  
 
 ## Installing the PIP Dependencies
 To install the required pip dependencies open a Command Prompt window.  
