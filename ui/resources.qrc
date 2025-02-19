@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="wiggler">
+    <file>icons/arrow.png</file>
+    <file>icons/greenCircle.png</file>
+    <file>icons/redCircle.png</file>
+    <file>icons/window.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+{
+    "damping": 0.5,
+    "elasticity": 50.0,
+    "stiffness": 0.5,
+    "mass": 1.0,
+    "iterations": 5
+}
