@@ -4,14 +4,14 @@ import json
 from maya import cmds as mc
 from maya.api import OpenMaya as om
 from mpy import mpyscene, mpynode
-from Qt import QtCore, QtWidgets, QtGui, QtCompat
 from enum import IntEnum
 from collections import deque, defaultdict
-from dcc.generators.inclusiverange import inclusiveRange
 from dcc.ui import qsingletonwindow, qtimespinbox, qsignalblocker
 from dcc.python import stringutils, pathutils
 from dcc.maya.libs import pluginutils
 from dcc.maya.decorators import animate, undo
+from dcc.generators.inclusiverange import inclusiveRange
+from dcc.vendor.Qt import QtCore, QtWidgets, QtGui, QtCompat
 from . import resources
 from ..libs import sceneutils
 
